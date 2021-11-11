@@ -1,0 +1,102 @@
+body {
+    background-color: #CD6155 ;
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+#header {
+    height: 5vw;
+    width: 40vw;
+    border: 3px solid black;
+    background-color:darkslategrey;
+    margin-left: 400px;
+    position: relative;
+    margin-top: 20px;
+    border-radius: 20px;
+    color: white;
+    
+}
+
+#heading {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 15px;
+
+   
+}
+
+#content {
+    height:45vw ; 
+    width: 40vw;
+    border: 3px solid black;
+    margin-left: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#form {
+    padding-top: 30px;
+}
+.bill_info {
+    font-size: 25px;
+    padding-left: 30px ;
+    margin-left: 80px ; 
+
+}
+
+.text {
+    margin-left: -15px;
+    font-weight: 900;
+}
+
+.dropdown {
+    margin-top: 20px;
+    height: 60px;
+    width: 350px;
+}
+
+.input {
+    font-size: 30px;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+
+
+option {
+    font-size: 20px;
+
+}
+
+#submit {
+    font-size: 30px;
+    height: 65px;
+    width: 200px;
+    margin-left: 160px;
+    background-color: chocolate;
+    border-radius: 15px;
+    border: 3px solid black;
+    font: 800;
+    color: white;
+    padding-top: 5px;
+    margin-top: 30px;
+    cursor:pointer;
+}
+
+#ans {
+    height: 40px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 25px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#ans_text {
+   padding-left: 100px;
+  margin-top: 25px;
+  
+}
+
